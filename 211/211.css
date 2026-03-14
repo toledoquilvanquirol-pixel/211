@@ -35,7 +35,7 @@ a:active {
 body {
     margin:0;
     padding:0;
-    background-image:url(/211/rose.gif);
+    background-image:url("/211/211/unyielding-itachis-sharingan_800.gif");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -47,7 +47,7 @@ body {
     background:transparent; 
 }
 header {
-background: transparent url(header.jpg) no-repeat center top;
+background: transparent url("/211/211/mata.gif") no-repeat center top;
 border:0px dotted #999999;
 width:630px;
 height:387px;
